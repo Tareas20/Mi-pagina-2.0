@@ -158,8 +158,11 @@ header {
 }
 #mitad #div2 input 
 {
-	width: 895px;
+	width: 795px;
 	height: 470px;
+}
+div #header {
+	float: right;
 }
 footer {
 	background-color: #000;
